@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "990103660191",
+    "project_id": "craftotp",
+    "storage_bucket": "craftotp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:990103660191:android:a0d3a40741299938b364aa",
+        "android_client_info": {
+          "package_name": "com.example.craft_my_plate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "990103660191-prsfcaf43e1mg6odd2vpdc6lt6a64ovq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBo2-k5nG0pvzEvQ9NWISsL0oH5bcFrkqo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "990103660191-prsfcaf43e1mg6odd2vpdc6lt6a64ovq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
